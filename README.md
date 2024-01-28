@@ -20,5 +20,5 @@ If any of the `assert` statements fail **with** `severity failure` then GHDL wil
 Assert statements of other severity levels will be reported, but not fail the workflow.
 
 ## Documentation
-For the proof of functionality, a series of pictures demonstrating the use of the architecture has been sent to Maj Seery via Teams. I for basic Vivado navigation, I was helped by C3C Jake Miller
+For the proof of functionality, a series of pictures demonstrating the use of the architecture has been sent to Maj Seery via Teams. For help with basic Vivado navigation, I was helped by C3C Jake Miller
 and Maj Seery during class. 
